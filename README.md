@@ -1,1 +1,1 @@
-# Boostcoarse_2024DSproject
+boostcourse_2024DSproject

@@ -1,5 +1,4 @@
 boostcourse_2024DSproject
 
-![image](https://github.com/juwoncozyboy/boostcourse_2024DSproject/assets/136186580/9ce00b44-21d7-4790-8631-ed2c9678c0ca)
-
+![image](https://github.com/juwoncozyboy/boostcourse_2024DSproject/assets/136186580/3d0a60f0-6b35-4e4f-afc1-6ec71a90b6dc)
 
